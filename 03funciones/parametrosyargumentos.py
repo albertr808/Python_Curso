@@ -6,4 +6,4 @@ def  hola(nombre,apellido="...",apellido2="..."): # (nombre)parametro,-podemos t
 hola("Alberto","Ramirez","baltazar") #("alberto") es un argumento 
 hola("Alberto") 
 #podemos nombrar los argumentos
-hola(apellido="baltazar",apellido2="ramirez",nombre="alberto")
+hola(apellido="baltazar",apellido2="ramirez",nombre="albertooooo")
